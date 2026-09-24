@@ -24,14 +24,14 @@ Player::Player(std::string name = "Default", int hp = 100)
     playerStatus();
 }
 
-// Player::Player()
-// {
-//     playerName = "Default Name";
-//     hitPoints = 100;
+ //Player::Player()
+ //{
+   //  playerName = "Default Name";
+     //hitPoints = 100;
 
-//     std::cout << "New player was created: \n";
-//     playerStatus();
-// }
+     //std::cout << "New player was created: \n";
+     //playerStatus();
+ //}
 
 Player::~Player()
 {
@@ -56,5 +56,6 @@ int main()
     std::cout << "Location of P1 on the memory:" << ptr_p1 << std::endl;
     std::cout << "Calling a Method:\n";
     ptr_p1->playerStatus();
+    delete ptr_p1;
 
 }
