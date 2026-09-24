@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D857BB1-C850-41AA-89B5-2078E230843B}|GameDev3\\GameDev3.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\GameDev3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D857BB1-C850-41AA-89B5-2078E230843B}|GameDev3\\GameDev3.vcxproj|solutionrelative:GameDev3\\GameDev3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameDev3.cpp",
+              "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\GameDev3.cpp",
+              "RelativeDocumentMoniker": "GameDev3\\GameDev3.cpp",
+              "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\GameDev3.cpp",
+              "RelativeToolTip": "GameDev3\\GameDev3.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-24T10:22:11.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
