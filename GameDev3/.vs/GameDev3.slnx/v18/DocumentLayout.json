@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D857BB1-C850-41AA-89B5-2078E230843B}|GameDev3\\GameDev3.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D857BB1-C850-41AA-89B5-2078E230843B}|GameDev3\\GameDev3.vcxproj|solutionrelative:GameDev3\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D857BB1-C850-41AA-89B5-2078E230843B}|GameDev3\\GameDev3.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\Point2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D857BB1-C850-41AA-89B5-2078E230843B}|GameDev3\\GameDev3.vcxproj|solutionrelative:GameDev3\\Point2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D857BB1-C850-41AA-89B5-2078E230843B}|GameDev3\\GameDev3.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\Point2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D857BB1-C850-41AA-89B5-2078E230843B}|GameDev3\\GameDev3.vcxproj|solutionrelative:GameDev3\\Point2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D857BB1-C850-41AA-89B5-2078E230843B}|GameDev3\\GameDev3.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D857BB1-C850-41AA-89B5-2078E230843B}|GameDev3\\GameDev3.vcxproj|solutionrelative:GameDev3\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D857BB1-C850-41AA-89B5-2078E230843B}|GameDev3\\GameDev3.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\GameDev3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2D857BB1-C850-41AA-89B5-2078E230843B}|GameDev3\\GameDev3.vcxproj|solutionrelative:GameDev3\\GameDev3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,17 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point2D.cpp",
+              "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\Point2D.cpp",
+              "RelativeDocumentMoniker": "GameDev3\\Point2D.cpp",
+              "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\Point2D.cpp",
+              "RelativeToolTip": "GameDev3\\Point2D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-29T13:37:22.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\Player.h",
+              "RelativeDocumentMoniker": "GameDev3\\Player.h",
+              "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\Player.h",
+              "RelativeToolTip": "GameDev3\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-29T13:18:59.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Point2D.h",
+              "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\Point2D.h",
+              "RelativeDocumentMoniker": "GameDev3\\Point2D.h",
+              "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\Point2D.h",
+              "RelativeToolTip": "GameDev3\\Point2D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-29T13:37:01.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\Player.cpp",
+              "RelativeDocumentMoniker": "GameDev3\\Player.cpp",
+              "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\Player.cpp",
+              "RelativeToolTip": "GameDev3\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-29T13:27:03.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GameDev3.cpp",
               "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\GameDev3.cpp",
               "RelativeDocumentMoniker": "GameDev3\\GameDev3.cpp",
               "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\GameDev3\\GameDev3\\GameDev3.cpp",
               "RelativeToolTip": "GameDev3\\GameDev3.cpp",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAADgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-24T10:22:11.64Z",
               "EditorCaption": ""
