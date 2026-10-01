@@ -7,10 +7,9 @@ class Player
 {
     std::string playerName;
     int hitPoints;
-    Point2D position;
+    Point2D position; // composition 
 public:
     Player(std::string name, int hp);
-    //Player(); //overloaded constructor
     void levelUp();
     void playerStatus();
     ~Player(); //class destructor!

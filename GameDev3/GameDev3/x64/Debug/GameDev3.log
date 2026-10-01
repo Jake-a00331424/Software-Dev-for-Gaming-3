@@ -1,4 +1,20 @@
 ﻿  GameDev3.cpp
   Player.cpp
+  Point2D.cpp
+C:\Users\A00331424\Documents\GitHub\Software-Dev-for-Gaming-3\GameDev3\GameDev3\Point2D.h(16,8): error C2039: 'cout': is not a member of 'std'
+  (compiling source file 'Point2D.cpp')
+      C:\Users\A00331424\Documents\GitHub\Software-Dev-for-Gaming-3\GameDev3\GameDev3\predefined C++ types (compiler internal)(359,11):
+      see declaration of 'std'
+  
+C:\Users\A00331424\Documents\GitHub\Software-Dev-for-Gaming-3\GameDev3\GameDev3\Point2D.h(16,8): error C2065: 'cout': undeclared identifier
+  (compiling source file 'Point2D.cpp')
+  
+C:\Users\A00331424\Documents\GitHub\Software-Dev-for-Gaming-3\GameDev3\GameDev3\Point2D.h(16,43): error C2039: 'endl': is not a member of 'std'
+  (compiling source file 'Point2D.cpp')
+      C:\Users\A00331424\Documents\GitHub\Software-Dev-for-Gaming-3\GameDev3\GameDev3\predefined C++ types (compiler internal)(359,11):
+      see declaration of 'std'
+  
+C:\Users\A00331424\Documents\GitHub\Software-Dev-for-Gaming-3\GameDev3\GameDev3\Point2D.h(16,43): error C2065: 'endl': undeclared identifier
+  (compiling source file 'Point2D.cpp')
+  
   Generating Code...
-  GameDev3.vcxproj -> C:\Users\A00331424\Documents\GitHub\Software-Dev-for-Gaming-3\GameDev3\x64\Debug\GameDev3.exe
