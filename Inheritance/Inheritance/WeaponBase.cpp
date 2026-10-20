@@ -13,3 +13,8 @@ void WeaponBase::Attack() // Print a message "Dealing Damage to Enemies"
 {
 	std::cout << "Dealing damage\n";
 }
+
+std::string WeaponBase::getObjectType() {
+	std::string refName = typeid(*this).name();
+	return refName + " ";
+}

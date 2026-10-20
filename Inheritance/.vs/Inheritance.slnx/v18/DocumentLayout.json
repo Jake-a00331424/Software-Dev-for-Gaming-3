@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponRange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\WeaponRange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\MainProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\MainProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponMelee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\WeaponMelee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponRanged.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\WeaponRanged.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,12 +23,16 @@
       "RelativeMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponRanged.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\WeaponRanged.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\WeaponBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponRange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\WeaponRange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\MainProgram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAD07B3A-1147-4211-8161-5A4CE6B1EB8F}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\MainProgram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +42,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeaponBase.h",
-              "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponBase.h",
-              "RelativeDocumentMoniker": "Inheritance\\WeaponBase.h",
-              "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponBase.h",
-              "RelativeToolTip": "Inheritance\\WeaponBase.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "WeaponMelee.h",
+              "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponMelee.h",
+              "RelativeDocumentMoniker": "Inheritance\\WeaponMelee.h",
+              "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponMelee.h",
+              "RelativeToolTip": "Inheritance\\WeaponMelee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-15T10:16:52.244Z",
+              "WhenOpened": "2026-10-20T13:43:05.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "MainProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\MainProgram.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\MainProgram.cpp",
+              "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\MainProgram.cpp",
+              "RelativeToolTip": "Inheritance\\MainProgram.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-20T13:13:54.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainProgram.h",
+              "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\MainProgram.h",
+              "RelativeDocumentMoniker": "Inheritance\\MainProgram.h",
+              "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\MainProgram.h",
+              "RelativeToolTip": "Inheritance\\MainProgram.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-20T13:13:50.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WeaponRanged.h",
               "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponRanged.h",
               "RelativeDocumentMoniker": "Inheritance\\WeaponRanged.h",
               "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponRanged.h",
               "RelativeToolTip": "Inheritance\\WeaponRanged.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-10-15T10:16:32.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "WeaponBase.cpp",
+              "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponBase.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\WeaponBase.cpp",
+              "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponBase.cpp",
+              "RelativeToolTip": "Inheritance\\WeaponBase.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-15T10:15:21.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeaponBase.h",
+              "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponBase.h",
+              "RelativeDocumentMoniker": "Inheritance\\WeaponBase.h",
+              "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponBase.h",
+              "RelativeToolTip": "Inheritance\\WeaponBase.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-15T10:16:52.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "WeaponRange.cpp",
               "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponRange.cpp",
               "RelativeDocumentMoniker": "Inheritance\\WeaponRange.cpp",
@@ -73,26 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeaponBase.cpp",
-              "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponBase.cpp",
-              "RelativeDocumentMoniker": "Inheritance\\WeaponBase.cpp",
-              "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\WeaponBase.cpp",
-              "RelativeToolTip": "Inheritance\\WeaponBase.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-15T10:15:21.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Inheritance.cpp",
               "DocumentMoniker": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\Inheritance.cpp",
               "RelativeDocumentMoniker": "Inheritance\\Inheritance.cpp",
               "ToolTip": "C:\\Users\\A00331424\\Documents\\GitHub\\Software-Dev-for-Gaming-3\\Inheritance\\Inheritance\\Inheritance.cpp",
               "RelativeToolTip": "Inheritance\\Inheritance.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-15T10:14:57.963Z",
               "EditorCaption": ""

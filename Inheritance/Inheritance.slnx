@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Inheritance/Inheritance.vcxproj" />
+  <Project Path="Inheritance/Inheritance.vcxproj" Id="bad07b3a-1147-4211-8161-5a4ce6b1eb8f" />
 </Solution>

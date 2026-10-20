@@ -14,5 +14,6 @@ public:
 	~WeaponBase() {
 		std::cout << "WeaponBase Destructor\n";
 	}
+	std::string getObjectType();
 };
 

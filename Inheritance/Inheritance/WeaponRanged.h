@@ -9,7 +9,7 @@ private:
     int ammo;
     int maxAmmo;
 
-protected:
+public:
     void Reload(); // set ammo to maxAmmo
 
 public:
