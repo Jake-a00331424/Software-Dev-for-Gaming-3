@@ -9,7 +9,7 @@ Player::Player(std::string name = "Default", int hp = 10)
     playerStatus();
 }
 
-void Player::levelUp()
+void Player::levelUp() 
 {
     hitPoints = hitPoints * 2;
     playerStatus();
